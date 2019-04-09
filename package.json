@@ -1,16 +1,16 @@
 {
-	"name": "@hinge/utilities",
-	"version": "1.0.10",
-	"description": "Utilities package containing the CSS utility classes",
-	"license": "MIT",
-	"repository": "hinge/utilities",
-	"main": "index.js",
-	"keywords": [
-		"hinge",
-		"utilities"
-	],
-	"dependencies": {
-		"bootstrap": "^4.3.1",
-		"bulma": "^0.7.4"
-	}
+  "name": "@hinge/utilities",
+  "version": "1.1.0",
+  "description": "Utilities package containing the CSS utility classes",
+  "license": "MIT",
+  "repository": "hingeltd/utilities",
+  "main": "index.js",
+  "keywords": [
+    "hinge",
+    "utilities"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bulma": "^0.7.4"
+  }
 }
