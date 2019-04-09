@@ -1,0 +1,33 @@
+// Some of bootstrap functions, mixins, and variables are used by it's utilities
+// The following files are required
+@import 'bootstrap/functions';
+@import 'bootstrap/variables';
+@import 'bootstrap/mixins';
+
+// Utility classes (optional)
+@import 'bootstrap/utilities/align';
+@import 'bootstrap/utilities/background';
+@import 'bootstrap/utilities/borders';
+@import 'bootstrap/utilities/clearfix';
+@import 'bootstrap/utilities/display';
+@import 'bootstrap/utilities/embed';
+@import 'bootstrap/utilities/flex';
+@import 'bootstrap/utilities/float';
+@import 'bootstrap/utilities/position';
+@import 'bootstrap/utilities/screenreaders';
+@import 'bootstrap/utilities/sizing';
+@import 'bootstrap/utilities/spacing';
+@import 'bootstrap/utilities/text';
+@import 'bootstrap/utilities/visibility';
+
+// Bulma utilities (Bulma grid uses it's own utilities and variables)
+@import 'bulma/utilities/initial-variables';
+@import 'bulma/utilities/functions';
+@import 'bulma/utilities/derived-variables';
+@import 'bulma/utilities/animations';
+@import 'bulma/utilities/mixins';
+@import 'bulma/utilities/controls';
+
+// Bulma grid
+@import 'bulma/grid/columns';
+@import 'bulma/grid/tiles';
